@@ -1,6 +1,7 @@
 # Assignment: Getting and Cleaning data Assignment
 
-Dataset: Human Activity Recognition Using Smartphones
+Dataset: Human Activity Recognition Using Smartphones 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Files:
 - CodeBook.md a code book that describes the variables, the data, and any transformations or work performed to clean up the data
