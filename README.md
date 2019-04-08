@@ -1,10 +1,9 @@
-# Assignment-3
-Getting and Cleaning data Assignment
+# Assignment: Getting and Cleaning data Assignment
 
-##Dataset
+Dataset
 Human Activity Recognition Using Smartphones
 
-##Files
+Files
 - CodeBook.md a code book that describes the variables, the data, and any transformations or work performed to clean up the data
 
 - Load&Import.R loads the required packages, downloads the data files to the working directory (if needed) and imports the data files to R. 
